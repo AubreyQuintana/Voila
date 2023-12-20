@@ -1,4 +1,15 @@
 voila
+numpy
+pandas
+matplotlib.pyplot
+seabord
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+from __future__ import print_function
+from ipywidgets import interact, interactive, fixed, interact_manual
+import ipywidgets as widgets
+%matplotlib inline
 autopep8==2.0.0
 certifi==2023.11.17
 pycodestyle==2.9.1
