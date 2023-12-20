@@ -1,11 +1,9 @@
 voila
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 seabord
-sklearn.model_selection
-sklearn.linear_model
-sklearn.metrics
+sklearn
 ipywidgets
 autopep8==2.0.0
 certifi==2023.11.17
