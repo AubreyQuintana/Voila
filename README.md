@@ -1,2 +1,2 @@
 # Capstone
-A simple voila app for Capstone Project
+Using machine learning to predict revenue stream for small business.
